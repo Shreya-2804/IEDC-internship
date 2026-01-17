@@ -51,4 +51,8 @@ The dataset consists of images obtained from coloring tasks, labeled with corres
 > Please refer to the notebook for instructions on dataset loading or preprocessing.
 
 Due to large file quantity the individual files are not uploaded here's the zip file :https://github.com/Shreya-2804/IEDC-internship/blob/main/ColoringEmotion.zip
+
+If the zip file also does not open then here's the link: https://ci3.googleusercontent.com/meips/ADKq_NYKqufCxOcvzamFNOA6-8CJ8bqOdOCZkckRboBMOXWBUdQNDc4iDjJu-x7z96_yeqMMTQM4LJciAzAgiMib84VbSUu9jkjuW6nN6AOoYeuTou4GsqGpWnRTroYnqg2hOXCTxL7ZKJbwKzXbFhlXew=s0-d-e1-ft#http://drive-thirdparty.googleusercontent.com/32/type/application/vnd.google.colaboratory
+
+https://ci3.googleusercontent.com/meips/ADKq_NYKqufCxOcvzamFNOA6-8CJ8bqOdOCZkckRboBMOXWBUdQNDc4iDjJu-x7z96_yeqMMTQM4LJciAzAgiMib84VbSUu9jkjuW6nN6AOoYeuTou4GsqGpWnRTroYnqg2hOXCTxL7ZKJbwKzXbFhlXew=s0-d-e1-ft#http://drive-thirdparty.googleusercontent.com/32/type/application/vnd.google.colaboratory
    
